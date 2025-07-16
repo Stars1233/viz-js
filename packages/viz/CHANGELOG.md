@@ -1,5 +1,7 @@
 # Changelog
 
+## Unreleased
+
 ## 3.15.0
 
 * Renamed viz-standalone.js to viz-global.js to better indicate that it sets a global called `Viz`, and it was moved to `./dist/`.
