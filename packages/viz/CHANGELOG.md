@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 3.23.0
 
 * Update Graphviz to 14.1.0.
 * Fix that default attributes were added incorrectly, and would appear on the root graph as well as subgraphs.
